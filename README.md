@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is JaTabs and i'm a high school student!
+I'm learning about python and web development
+I want to colaborate on projects revolving about gaming
