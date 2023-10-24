@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola!👋
 
 <!--
 **JaTabs/JaTabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is JaTabs and i'm a high school student!
+My name is JaTabs and i'm a spainsh high school student!
 I'm learning about python and web development
 I want to colaborate on projects revolving about gaming
