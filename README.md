@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is JaTabs and i'm a spainsh high school student!
-I'm learning about python and web development
-I want to colaborate on projects revolving about gaming
+My name is JaTabs and i'm a spainsh IT student
+The repos in my profile are public versions of software I created modified to better fit my needs 
+I have a homelab and a special interest in AI and Vibecoding
+All of my code and readmes here are AI generated
