@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is JaTabs and i'm a spainsh IT student
-The repos in my profile are public versions of software I created modified to better fit my needs 
+The repos in my profile are public versions of software I modified to better fit my needs 
 I have a homelab and a special interest in AI and Vibecoding
 All of my code and readmes here are AI generated
